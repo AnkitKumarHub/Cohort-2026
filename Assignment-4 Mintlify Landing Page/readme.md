@@ -43,4 +43,4 @@ A clean recreation of the Mintlify documentation website, built to practice real
 
 
 ## 📸 Screenshot
-![Mintlify Clone Screenshot](/Assignment-4/images/fullPageSS.png)
+![Mintlify Clone Screenshot](/Assignment-4%20Mintlify%20Landing%20Page/images/fullPageSS.png)
