@@ -2,7 +2,7 @@
 
 A static HTML/CSS clone of the Cursor landing page. This project focuses on layout, typography, and responsive sectioning for a marketing-style homepage.
 
-[Preview Link]()
+[Preview Link](https://cohort-2026-sigma.vercel.app/)
 
 ## Features
 - Navigation bar with brand logo and CTA buttons
@@ -40,4 +40,4 @@ A static HTML/CSS clone of the Cursor landing page. This project focuses on layo
 
 Below is a full-page screenshot of the recreated landing page:
 
-![Landing Page Screenshot]()
+![Landing Page Screenshot](/images/fullpage.png)
