@@ -20,8 +20,6 @@ A clean recreation of the Mintlify documentation website, built to practice real
 - CSS3
 - JavaScript
 
----
-
 ## 🎨 Fonts Used
 - Inter  
 - Space Mono  
@@ -34,14 +32,10 @@ A clean recreation of the Mintlify documentation website, built to practice real
 - Primary Accent: `#16A34A`  
 - Secondary Accent: `#22C55E`  
 
----
-
 ## How to Run
-
 1. Open `index.html` in any modern browser.
 
 ## Project Structure
-
 - `index.html`
 - `css/`
 - `images/`
@@ -49,5 +43,4 @@ A clean recreation of the Mintlify documentation website, built to practice real
 
 
 ## 📸 Screenshot
-
 ![Mintlify Clone Screenshot](/Assignment-4/images/fullPageSS.png)
