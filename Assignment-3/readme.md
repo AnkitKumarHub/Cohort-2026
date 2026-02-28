@@ -40,4 +40,4 @@ A static HTML/CSS clone of the Cursor landing page. This project focuses on layo
 
 Below is a full-page screenshot of the recreated landing page:
 
-![Landing Page Screenshot](/images/fullpage.png)
+![Landing Page Screenshot](/Assignment-3/images/fullpage.png)
