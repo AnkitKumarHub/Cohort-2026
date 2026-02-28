@@ -2,7 +2,7 @@
 
 A clean recreation of the Mintlify documentation website, built to practice real-world documentation layouts, section hierarchy, and large-scale UI structuring using HTML and CSS.
 
-[Preview Link]()
+[Preview Link](https://cohort-2026-fda1.vercel.app/)
 
 ## Features
 
@@ -50,4 +50,4 @@ A clean recreation of the Mintlify documentation website, built to practice real
 
 ## 📸 Screenshot
 
-![Mintlify Clone Screenshot]()
+![Mintlify Clone Screenshot](/Assignment-4/images/fullPageSS.png)
