@@ -2,7 +2,7 @@
 
 A clean recreation of the Mintlify documentation website, built to practice real-world documentation layouts, section hierarchy, and large-scale UI structuring using HTML and CSS.
 
-[Preview Link](https://cohort-2026-fda1.vercel.app/)
+[Preview Link](https://cohort-2026-bwez.vercel.app/)
 
 ## Features
 
